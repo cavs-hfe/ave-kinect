@@ -1,2 +1,2 @@
-# ped-sim-kinect
-Kinect Client for Pedestrian Simulator
+# ave-kinect
+Kinect Client for AVENUE Simulator
